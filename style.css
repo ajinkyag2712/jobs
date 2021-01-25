@@ -1,0 +1,44 @@
+
+.navbar-brand{
+    font-weight: 1000;
+    color: black;
+}
+.btn{
+    border: #2C2CFF 2px solid;
+}
+.sec2{
+    /* border: 1px solid red; */
+    margin-top: 10px;
+    display: flex;
+    justify-content: start;
+}
+.sec2_1{
+    color:#0DCAF0;
+    outline: #0DCAF0;
+    border: 1px solid #0DCAF0;
+}
+.card-image-top{
+    height: 30vh;
+}
+.design{
+    display: flex;
+    justify-content: center;
+    
+}
+.design1{
+    outline: none;
+    border-radius: 8px;
+    color: white;
+    width: 150px;
+    background-color: blue;
+    border: none;
+    height: 35px;
+    margin-bottom: 2%;
+
+}
+footer{
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    height: 50px;
+}
